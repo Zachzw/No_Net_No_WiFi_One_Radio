@@ -1,0 +1,27 @@
+{
+    "app": {
+        "auto_start": true,
+        "date": "2021-10-27T17:18:54.929604",
+        "files": {
+            "No_Net_No_WiFi.py": "4027b3d88bed401920f97e0289454e8eb8567fa2582485bed44115e6e6725fb6",
+            "csclient.py": "0c6a55c889daf7df554ab1d22e3290cbb45540a081a62b485036d98ef01e681b",
+            "package.ini": "1aee4bbad4abf201e042cc56d1f733cbff124ca37ef1f477873cc539eea413e9",
+            "readme.txt": "ac6b252c07a50146499a5c16b39e0815f532a278c28801c3de86fe4acd6ec064",
+            "start.sh": "8c5cf4625dfcfb6eef35087eed3ad49ddf315453539a6b1c574b9011603b65f1"
+        },
+        "firmware_major": 7,
+        "firmware_minor": 2,
+        "name": "No_Net_No_WiFi",
+        "notes": "Application Template for use with SDK 3.0",
+        "reboot": true,
+        "restart": true,
+        "uuid": "8a7f79cb-b11b-44bc-bd33-0f4ab3f06d60",
+        "vendor": "Cradlepoint",
+        "version_major": 1,
+        "version_minor": 0
+    },
+    "pmf": {
+        "version_major": 1,
+        "version_minor": 0
+    }
+}
